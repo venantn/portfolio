@@ -21,7 +21,7 @@ const Projects = () => {
         <Card title="Student T-Test on FTIR Spectra of Lymphoma and Normal Samples" description="An analysis of several hundered spectra samples of blood from patients withand without lymphoma. Completed with a student t-test to detect areas that are statistically significant " 
         url="https://github.com/venantn/FTIR-Lymphoma-Analysis" tech="Python"/>
         <Card title="My Portfolio!" description="Take a look at the ins and outs of this very website!" 
-        url="https://github.com/venantn/COVIDProject" tech="React, Tailwind"/>
+        url="https://github.com/venantn/portfolio" tech="React, Tailwind"/>
         
       </div>
     </div>
